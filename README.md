@@ -9,7 +9,7 @@ This repository contains the SQL analysis, Power BI visualization, and business 
 - `task3_payment_analysis.sql`: SQL queries to identify patterns in payment success/failure.
 - `task4_order_details.sql`: SQL to generate a unified report of orders and payments.
 - `customer_retention.csv`: Processed cohort analysis dataset used in Power BI.
-- Power BI Visual: Customer retention heatmap and line chart visualization.
+- task5_visual.pbix : Power BI Visual: Customer retention heatmap and line chart visualization.
 - `insights_summary.md`: Key insights and recommendations based on all tasks.
 
 ---
